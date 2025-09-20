@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "@bu0nq/style.scss.mixin.media": "github:bu0nq/style.scss.mixin.media"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bu0nq/style.scss.mixins.git"
