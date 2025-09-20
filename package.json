@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@bu0nq/style.scss.mixin.media": "github:bu0nq/style.scss.mixin.media"
+    "@bu0nq/style.scss.mixin.media-breakpoint": "github:bu0nq/style.scss.mixin.media-breakpoint"
   },
   "repository": {
     "type": "git",
