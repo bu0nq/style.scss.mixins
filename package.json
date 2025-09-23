@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@bu0nq/style.scss.mixin.grid-external-container": "github:bu0nq/style.scss.mixin.grid-external-container",
-    "@bu0nq/style.scss.mixin.grid-internal-container": "github:bu0nq/style.scss.mixin.grid-internal-container",
+    "@bu0nq/style.scss.mixin.grid-container-inner": "github:bu0nq/style.scss.mixin.grid-container-inner",
+    "@bu0nq/style.scss.mixin.grid-container-outer": "github:bu0nq/style.scss.mixin.grid-container-outer",
     "@bu0nq/style.scss.mixin.media-breakpoint": "github:bu0nq/style.scss.mixin.media-breakpoint"
   },
   "repository": {
