@@ -1,6 +1,6 @@
 {
   "name": "@bu0nq/style.scss.mixins",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Package for integrating Style.SCSS.Mixins",
   "main": "mixins.scss",
   "scripts": {
@@ -12,6 +12,8 @@
     "@bu0nq/style.scss.mixin.grid-container-external": "^0.1.0",
     "@bu0nq/style.scss.mixin.grid-container-internal": "^0.1.0",
     "@bu0nq/style.scss.mixin.media-breakpoint": "^0.1.0",
+    "@bu0nq/style.scss.mixin.placeholder": "^0.1.0",
+    "@bu0nq/style.scss.mixin.placeholder-shown": "^0.1.0",
     "@bu0nq/style.scss.mixin.property-color-schemes": "^0.1.0",
     "@bu0nq/style.scss.mixin.triangle": "^0.1.0"
   },
