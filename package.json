@@ -1,22 +1,32 @@
 {
   "name": "@bu0nq/style.scss.mixins",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Package for integrating Style.SCSS.Mixins",
   "main": "mixins.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@bu0nq/style.scss.mixin.animation-delay": "^0.1.0",
+    "@bu0nq/style.scss.mixin.animation-duration": "^0.1.0",
+    "@bu0nq/style.scss.mixin.animation-fill-mode": "^0.1.0",
+    "@bu0nq/style.scss.mixin.animation-iteration-count": "^0.1.0",
+    "@bu0nq/style.scss.mixin.animation-name": "^0.1.0",
+    "@bu0nq/style.scss.mixin.animation-timing-function": "^0.1.0",
     "@bu0nq/style.scss.mixin.bem-element": "^0.1.0",
     "@bu0nq/style.scss.mixin.bem-modifier": "^0.1.0",
     "@bu0nq/style.scss.mixin.box": "^0.1.0",
     "@bu0nq/style.scss.mixin.clearfix": "^0.1.0",
     "@bu0nq/style.scss.mixin.grid-container-external": "^0.1.0",
     "@bu0nq/style.scss.mixin.grid-container-internal": "^0.1.0",
+    "@bu0nq/style.scss.mixin.keyframes": "^0.1.0",
     "@bu0nq/style.scss.mixin.media-breakpoint": "^0.1.0",
     "@bu0nq/style.scss.mixin.placeholder": "^0.1.0",
     "@bu0nq/style.scss.mixin.placeholder-shown": "^0.1.0",
     "@bu0nq/style.scss.mixin.property-color-schemes": "^0.1.0",
+    "@bu0nq/style.scss.mixin.transform": "^0.1.0",
+    "@bu0nq/style.scss.mixin.transform-origin": "^0.1.0",
+    "@bu0nq/style.scss.mixin.transform-style": "^0.1.0",
     "@bu0nq/style.scss.mixin.triangle": "^0.1.0"
   },
   "repository": {
