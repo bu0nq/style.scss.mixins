@@ -1,6 +1,6 @@
 {
   "name": "@bu0nq/style.scss.mixins",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Package for integrating Style.SCSS.Mixins",
   "main": "mixins.scss",
   "scripts": {
@@ -14,6 +14,7 @@
     "@bu0nq/style.scss.mixin.animation-name": "^0.1.0",
     "@bu0nq/style.scss.mixin.animation-timing-function": "^0.1.0",
     "@bu0nq/style.scss.mixin.autofill": "^0.1.0",
+    "@bu0nq/style.scss.mixin.backface-visibility": "^0.1.0",
     "@bu0nq/style.scss.mixin.bem-element": "^0.1.0",
     "@bu0nq/style.scss.mixin.bem-modifier": "^0.1.0",
     "@bu0nq/style.scss.mixin.box": "^0.1.0",
